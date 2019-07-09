@@ -5,3 +5,6 @@ Grapes
 Chickoo
 Cherry
 Banana
+Pineapple
+Water melon
+
