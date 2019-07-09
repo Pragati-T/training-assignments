@@ -3,3 +3,5 @@ Orange
 Mango
 Grapes
 Chickoo
+Cherry
+Banana
